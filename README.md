@@ -1,4 +1,4 @@
-# from-chaos-to-clean-titanic
+# 🌊🚢from-chaos-to-clean-titanic
 
 This project involves cleaning and exploring the Titanic dataset to prepare it for analysis or modeling. The steps include handling missing data, removing outliers, extracting meaningful features, and normalizing values.
 
