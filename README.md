@@ -25,3 +25,20 @@ This project involves cleaning and exploring the Titanic dataset to prepare it f
 - Cleaned and reformatted names into a new Cleaned_Name column
 
 ---
+#### 📂 Project Structure
+
+Titanic_Data_Cleaning_and_Exploration/
+│
+├── data/
+│   └── train.csv
+│
+├── notebooks/
+│   └── Titanic_Data_Cleaning_and_Exploration.ipynb
+│
+├── outputs/
+│   ├── cleaned_data.csv
+│   └── figures/
+│       └── *.png (EDA plots)
+│
+├── requirements.txt
+└── README.md
